@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **dhruv.160410116084@gmail.com**
 
+- 📄 portfolio **https://dhruvpatel.work**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dhruv-patel-0b6a3a164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-patel-0b6a3a164/" height="30" width="40" /></a>
